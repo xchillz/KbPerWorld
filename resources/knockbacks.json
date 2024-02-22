@@ -1,0 +1,12 @@
+{
+  "combo": {
+    "horizontal_knockback": 0.2575,
+    "vertical_knockback": 0.1575,
+    "attack_cooldown": 0,
+    "can_revert": true,
+    "maximum_height": 2.0,
+    "worlds": [
+      "world"
+    ]
+  }
+}

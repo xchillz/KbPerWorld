@@ -1,0 +1,13 @@
+name: KbPerWorld
+description: Manage knockbacks-per-world
+author: xChillz
+api: 2.0.0
+version: 1.0.0
+main: kbperworld\xchillz\KbPerWorld
+permissions:
+  knockback.command:
+    description: "Allows a player to use /knockback command."
+    default: op
+softdepend:
+  - LanguageAPI
+  - CustomPlayer
