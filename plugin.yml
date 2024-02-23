@@ -8,6 +8,6 @@ permissions:
   knockback.command:
     description: "Allows a player to use /knockback command."
     default: op
-softdepend:
+depend:
   - LanguageAPI
   - CustomPlayer
